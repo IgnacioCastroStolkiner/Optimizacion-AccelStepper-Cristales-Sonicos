@@ -1,4 +1,4 @@
-# Optimizacion-AccelStepper-Cristales-S-nicos
+# Optimizacion-AccelStepper-Cristales-Sonicos
 Proyecto para optimizar la librería AccelStepper para que pueda alcanzar mayor velocidad.
 
 Estes proyecto forma parte de mi tesis para la licenciatura de Música y Tecnología en la Universidad de Quilmes.
