@@ -1,6 +1,10 @@
 # Optimizacion-AccelStepper-Cristales-Sonicos
 Proyecto para optimizar la librería AccelStepper para que pueda alcanzar mayor velocidad.
 
+AccelStepper-master es la librería
+
+Cristal_Steppers.ino es el código de las arduino.
+
 Estes proyecto forma parte de mi tesis para la licenciatura de Música y Tecnología en la Universidad de Quilmes.
 
 Necesito controlar 5 motores paso a paso con driver desde una Arduino Mega. Actualmente me encuentro con la 
