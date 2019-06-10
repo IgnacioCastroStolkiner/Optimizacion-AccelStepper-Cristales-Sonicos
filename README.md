@@ -12,7 +12,7 @@ limitación de que a más de 200 micropasos/s la Arduino deja de responder de fo
 de crecer. El dispositivo en que uso estos motores tiene mucha reducción y necesita alcanzar velocidades mayores.
 
 Este proyecto busca investigar la forma de conseguir modificar la librería AccelStepper o el programa actual para
-conseguir velocidades mayores dentro de las limitaciones de procesamiento de la arduino. 
+conseguir velocidades mayores dentro de las limitaciones de procesamiento de la arduino. La reducciòn entre el eje del motor y la base circular de las columnas es muy grande y el procesador de la Arduino no llega a tirar la cantidad de pulsos necesarios para que las 5 columnas se muevan rápido a la vez. 
 
 Invito a cualquier persona que tenga ganas de mirar el código o la librería a hacer su aporte y les agradezco a todos!
 
